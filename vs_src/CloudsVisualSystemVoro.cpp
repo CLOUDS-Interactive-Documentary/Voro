@@ -259,7 +259,7 @@ void CloudsVisualSystemVoro::selfUpdate()
 
 void CloudsVisualSystemVoro::selfDraw()
 {
-    mat->begin();
+//    mat->begin();
     
     ofPushMatrix();
     
@@ -345,7 +345,7 @@ void CloudsVisualSystemVoro::selfDraw()
     glDisable(GL_DEPTH_TEST);
     ofPopMatrix();
     
-    mat->end();
+ //   mat->end();
 }
 
 //void CloudsVisualSystemVoro::selfPostDraw(){
