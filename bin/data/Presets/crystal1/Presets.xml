@@ -2,13 +2,18 @@
     <Kind>42</Kind>
     <Name>Presets</Name>
     <IsMinified>0</IsMinified>
-    <XPosition>289.000000000</XPosition>
-    <YPosition>193.000000000</YPosition>
+    <XPosition>1485.000000000</XPosition>
+    <YPosition>1.000000000</YPosition>
 </Canvas>
 <Widget>
     <Kind>2</Kind>
     <Name>cells</Name>
     <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>crystal1</Name>
+    <Value>1</Value>
 </Widget>
 <Widget>
     <Kind>2</Kind>
@@ -34,9 +39,4 @@
     <Kind>2</Kind>
     <Name>OrganicTissue</Name>
     <Value>0</Value>
-</Widget>
-<Widget>
-    <Kind>2</Kind>
-    <Name>crystal1</Name>
-    <Value>1</Value>
 </Widget>
